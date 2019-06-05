@@ -1,3 +1,10 @@
 https://www.codetd.com/article/4434418
 https://stackoverflow.com/questions/46450813/constructing-an-array-from-memory-address
 https://docs.scipy.org/doc/numpy/reference/generated/numpy.ndarray.html
+
+int_bufs = [(x) x ._dev._show]
+
+np_buf = numpy.asarray(int_bufs)
+slice = np_buf[:._dev.roiWidth*._dev.roiHeight]
+= slice.reshape(._dev.roiHeight._dev.roiWidth)
+
